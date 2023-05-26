@@ -1,0 +1,17 @@
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.csproj.AssemblyReference.cache
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.ClientForm.resources
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.csproj.GenerateResource.cache
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.GeneratedMSBuildEditorConfig.editorconfig
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.AssemblyInfoInputs.cache
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.AssemblyInfo.cs
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.csproj.CoreCompileInputs.cache
+I:\csharp\lb6client\bin\Debug\net6.0-windows\lb6client.exe
+I:\csharp\lb6client\bin\Debug\net6.0-windows\lb6client.deps.json
+I:\csharp\lb6client\bin\Debug\net6.0-windows\lb6client.runtimeconfig.json
+I:\csharp\lb6client\bin\Debug\net6.0-windows\lb6client.dll
+I:\csharp\lb6client\bin\Debug\net6.0-windows\lb6client.pdb
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.dll
+I:\csharp\lb6client\obj\Debug\net6.0-windows\refint\lb6client.dll
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.pdb
+I:\csharp\lb6client\obj\Debug\net6.0-windows\lb6client.genruntimeconfig.cache
+I:\csharp\lb6client\obj\Debug\net6.0-windows\ref\lb6client.dll
